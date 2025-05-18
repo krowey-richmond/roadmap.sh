@@ -127,4 +127,4 @@ This project was created as a submission to a [Roadmap.sh][def] challenge.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 [def]: https://roadmap.sh/frontend/projects  
-[def2]: ./single-page-cv/resources/screenshot.png
+[def2]: resources/screenshot.png

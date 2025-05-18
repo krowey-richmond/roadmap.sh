@@ -8,7 +8,7 @@
     <h3>
         <a href="https://77kromo.github.io/single-page-cv/" target="_blank">Live Demo</a>
         <span> | </span>
-        <a href="https://github.com/77Kromo/single-page-cv" target="_blank">Solution Code</a>
+        <a href="https://github.com/77Kromo/roadmap.sh/tree/main/Frontend-Projects/single-page-cv" target="_blank">Solution Code</a>
         <span> | </span>
         <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Challenge</a>
     </h3>

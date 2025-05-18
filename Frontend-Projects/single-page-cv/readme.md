@@ -87,19 +87,6 @@ single-page-cv/
         └── screenshot.png
 ```
 
-## How to Use
-
-**View Online:**  
-Visit the [Live Demo](https://77kromo.github.io/single-page-cv/)
-
-**Local Setup:**
-```bash
-git clone https://github.com/77Kromo/single-page-cv.git
-cd single-page-cv
-open index.html
-```
-Customize the HTML file with your personal information.
-
 ## Future Improvements
 
 - Add dark mode support

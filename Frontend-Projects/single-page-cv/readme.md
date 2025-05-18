@@ -6,7 +6,7 @@
 
 <div align="center">
     <h3>
-        <a href="https://77kromo.github.io/single-page-cv/" target="_blank">Live Demo</a>
+        <a href="https://roadmapsh-single-page-cv.netlify.app/" target="_blank">Live Demo</a>
         <span> | </span>
         <a href="https://github.com/77Kromo/roadmap.sh/tree/main/Frontend-Projects/single-page-cv" target="_blank">Solution Code</a>
         <span> | </span>

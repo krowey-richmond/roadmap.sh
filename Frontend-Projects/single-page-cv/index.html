@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
     <title>Single-Page CV</title>
 
     <style>
@@ -25,8 +27,13 @@
         background-color: #f5f5f5;
         border: #333 solid 2px;
         margin: 10px auto;
-        width: 700px;
+        max-width: 700px;
         color: #333;
+
+        @media screen and (max-width: 600px) {
+         border: none;
+         margin: 0;
+        }
       }
       #name {
         font-size: 30px;
@@ -109,26 +116,24 @@
       <p>October 2024 - Present</p>
       <ul class="list">
         <li>Assisted in the registration of drivers and vehicle licenses</li>
-        <li>
-          Coordinated with the local government to implement road safety
-          measures
-        </li>
+        <li>Coordinated with the local government to implement road safety measures</li>
         <li>Assisted in drafting and implementing road safety policies</li>
-        <li>
-          Participated in road safety training sessions for drivers and vehicle
-          license authorities
-        </li>
+        <li>Participated in road safety training sessions for drivers and vehicle license authorities</li>
       </ul>
     </div>
 
     <div class="container">
       <p class="title">Across the Internet</p>
-      <a href="https://github.com/77Kromo" target="_blank">Github</a>
       <a
-        href="https://www.linkedin.com/in/krowey-richmond-borquaye-8a6a311b/"
-        target="_blank"
-        >LinkedIn</a
-      >
+        href="https://github.com/krowey-richmond"
+        target="_blank">
+        Github
+      </a><br>
+      <a
+        href="https://www.linkedin.com/in/krowey-richmond"
+        target="_blank">
+        LinkedIn
+      </a>
     </div>
   </body>
 </html>

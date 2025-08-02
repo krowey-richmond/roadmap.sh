@@ -4,6 +4,7 @@ This repository features front-end projects developed by following the [roadmap.
 
 ## Projects List
 
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv), [Minimal Blog Card](https://roadmap.sh/projects/minimal-blog-card),\
 [Basic HTML Website](https://roadmap.sh/projects/basic-html-website), [Personal Portfolio](https://roadmap.sh/projects/portfolio-website),\
 [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards),\
 [Datepicker UI](https://roadmap.sh/projects/datepicker-ui), [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui),\
@@ -17,11 +18,11 @@ This repository features front-end projects developed by following the [roadmap.
 Click any of the images below to view a live demo of the project.
 
 <p align="center">
-    <a href="https://roadmapsh-single-page-cv.netlify.app/" target="_blank" style="margin-right: 2%;">
-        <img width="45%" src="./assets/images/single-page-cv.png" alt="Single Page CV" style="margin-right: 16px;" />
+    <a href="https://roadmapsh-single-page-cv.netlify.app/" target="_blank" style="margin-right: 5%;">
+        <img width="40%" src="./assets/images/single-page-cv.png" alt="Single Page CV" " />
     </a>
     <a href="https://roadmapsh-single-page-cv.netlify.app/" target="_blank">
-        <img width="45%" src="./assets/images/single-page-cv.png" alt="Single Page CV" />
+        <img width="40%" src="./assets/images/single-page-cv.png" alt="Single Page CV" />
     </a>
 </p>
 

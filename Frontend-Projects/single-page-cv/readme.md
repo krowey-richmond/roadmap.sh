@@ -93,5 +93,5 @@ single-page-cv/
 - Enhance mobile responsiveness
 - Add interactive elements
 
-[def]: https://roadmap.sh/frontend/projects  
+
 [def2]: resources/screenshot.png

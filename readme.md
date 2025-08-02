@@ -1,6 +1,6 @@
 # Projects from Roadmap.sh
 
-This repository features front-end projects developed by following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
+This repository features projects developed by following the [roadmap.sh](https://roadmap.sh/) front-end developer path.
 
 ## Projects List
 
@@ -29,7 +29,7 @@ Click any of the images below to view a live demo of the project.
 
 ## Acknowledgements
 
-- [Roadmap.sh](https://roadmap.sh/frontend/projects) for project inspiration
+- [Roadmap.sh](https://roadmap.sh/frontend) for project inspiration
 - W3Schools for CSS references
 
 This project was created as a submission to a [Roadmap.sh][def] challenge.

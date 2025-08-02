@@ -48,7 +48,7 @@ A clean, responsive single-page CV built with semantic HTML and CSS. This projec
 ```css
 /* Responsive container example */
 body {
-    width: 500px;
+    max-width: 500px;
     margin: 10px auto;
     border: #333 solid 2px;
     padding: 30px;
@@ -104,7 +104,7 @@ This project was created as a submission to a [Roadmap.sh][def] challenge.
 
 **Krowey Richmond Borquaye**
 
-- GitHub: [77Kromo](https://github.com/77Kromo)
+- GitHub: [77Kromo](https://github.com/krowey-richmond)
 - X: [Kromo77](https://x.com/kromo772004)
 - LinkedIn: Krowey Richmond Borquaye
 - Email: kroweyrichmond2004@gmail.com

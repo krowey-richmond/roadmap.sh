@@ -26,3 +26,23 @@ Click any of the images below to view a live demo of the project.
     </a>
 </p>
 
+
+## Acknowledgements
+
+- [Roadmap.sh](https://roadmap.sh/frontend/projects) for project inspiration
+- W3Schools for CSS references
+
+This project was created as a submission to a [Roadmap.sh][def] challenge.
+
+## Author
+
+**Krowey Richmond Borquaye**
+
+- GitHub: [Krowey Richmond Borquaye](https://github.com/krowey-richmond)
+- X: [Kromo77](https://x.com/kromo772004)
+- LinkedIn: [Krowey Richmond Borquaye](https://linkedin.com/in/krowey-richmond)
+- Email: kroweyrichmond2004@gmail.com
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
